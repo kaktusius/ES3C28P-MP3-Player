@@ -46,6 +46,8 @@ Hier ist ein Foto von meinem fertigen Projekt:
 
 \## Steuerung (Buttons)
 
+\* `Slider ` – Lautstärke
+
 \* `<< Back` – Vorheriger Titel in der Playlist
 
 \* `Play / Pause` – Musik anhalten und fortsetzen
